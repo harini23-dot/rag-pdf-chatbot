@@ -41,17 +41,7 @@ python ingest.py
 python chat_cli.py
 ```
 
-## Evaluate
-Add 10 questions with expected keywords to `eval/questions.json`, then:
-```bash
-python evaluate.py
-```
 
-| chunk_size | top_k | score |
-|-----------|-------|-------|
-| 500       | 4     | _fill in_ |
-| 800       | 4     | _fill in_ |
-| 1000      | 6     | _fill in_ |
 
 ## Project structure
 ```
