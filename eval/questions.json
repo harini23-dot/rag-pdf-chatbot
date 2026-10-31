@@ -1,0 +1,6 @@
+[
+  {
+    "question": "REPLACE with a question whose answer is in your PDF",
+    "expected_keywords": ["keyword1", "keyword2"]
+  }
+]
