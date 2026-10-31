@@ -19,7 +19,7 @@ Question -> embed -> top-k similar chunks -> LLM answers using only those chunks
 
 ## Setup
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/harini23-dot/rag-pdf-chatbot
 cd rag-pdf-chatbot
 python -m venv .venv
 source .venv/bin/activate        # Windows: .venv\Scripts\activate
